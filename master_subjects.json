@@ -1,17 +1,7 @@
 [
   {
     "id": 1,
-    "subject": "SSC GD Polity PYQ",
-    "topic_link": "LINK_AYEGA"
-  },
-  {
-    "id": 2,
-    "subject": "Delhi Police History",
-    "topic_link": "LINK_AYEGA"
-  },
-  {
-    "id": 3,
-    "subject": "current affairs",
-    "topic_link": "https://raw.githubusercontent.com/pkaswan583/Pyq/refs/heads/main/current_affairs_2025_lvl1.json"
+    "subject": "All PYQ Subjects",
+    "topic_link": "https://api.github.com/repos/pkaswan583/Pyq/contents/pyq"
   }
 ]
